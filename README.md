@@ -1,8 +1,13 @@
 # Hi 👋, I'm JP
-<img src="https://komarev.com/ghpvc/?username=jpwhite3&label=Profile%20views&color=0e75b6&style=flat" alt="jpwhite3" />
+
+<img src="https://myreadme.vercel.app/api/embed/jpwhite3?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 # Stats
+<img src="https://komarev.com/ghpvc/?username=jpwhite3&label=Profile%20views&color=0e75b6&style=flat" alt="jpwhite3" />
+
 ![jpwhite3's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpwhite3&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jpwhite3" alt="mystreak"/>
 
 # Lanaguages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpwhite3&langs_count=8)
